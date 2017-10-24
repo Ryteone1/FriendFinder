@@ -31,7 +31,7 @@ app.use(bodyParser.json());
 // ================================================================================
 
 // require("./routes/apiRoutes")(app);
-require("./routes/htmlRoutes")(app);
+require("./routing/htmlRoutes")(app);
 
  // app.get("/", function(req, res) {
  //    res.sendFile(path.join(__dirname, "/../public/home.html"));
