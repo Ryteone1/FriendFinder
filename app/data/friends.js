@@ -96,5 +96,23 @@ var friends = [
             1
         ]
     },
+
+
+    {
+        "name": "Ryan Lacy",
+        "photo": "https://drive.google.com/file/d/0B8Y4cdh2w039ckZQaU12Tko0UG8/view?usp=sharing",
+        "scores": [
+            5,
+            3,
+            3,
+            1,
+            2,
+            1,
+            4,
+            2,
+            2,
+            2
+        ]
+    }
 ]
 module.exports = friends;
