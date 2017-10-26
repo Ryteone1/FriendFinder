@@ -1,118 +1,49 @@
 // The below data will hold all the data from the collected surveys.
 var friends = [
     {
-        "name": "Ahmed",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        "scores": [
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
-        ]
+        "name": "Billy",
+        "photo": "https://news.nationalgeographic.com/content/dam/news/2015/06/06/waqswim/1_waqswim_nationalgeographic_1514924.adapt.710.1.jpg",
+        "scores": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]            
     },
     {
-        "name": "Mr. Coffee",
-        "photo": "https://cdn.pixabay.com/photo/2017/09/04/18/39/coffee-2714970_1280.jpg",
-        "scores":[
-            3,
-            2,
-            3,
-            4,
-            5,
-            2,
-            2,
-            2,
-            4,
-            3
-        ]
+        "name":"Mark E.",
+        "photo":"https://image.ibb.co/epUwMR/35c9aa9.jpg",
+        "scores": [5, 4, 2, 2, 4, 3, 4, 4, 5, 5]
     },
     {
-        "name": "Ms. Whiskers",
-        "photo": "https://cdn.pixabay.com/photo/2017/08/23/08/33/cats-eyes-2671903_1280.jpg",
-        "scores":[
-            5,
-            4,
-            5,
-            5,
-            4,
-            5,
-            4,
-            5,
-            4,
-            5
-        ]
+        "name": "Ryan S.",
+        "photo": "https://drive.google.com/open?id=0ByaawHGX1NDfek1tYWdySTJmdEE",
+        "scores": [3, 3, 1, 2, 1, 2, 4, 3, 1, 2]
     },
     {
-        "name": "Ballin Eagle",
-        "photo": "https://cdn.pixabay.com/photo/2017/09/04/20/52/bald-eagle-2715461_1280.jpg",
-        "scores":[
-            2,
-            3,
-            1,
-            4,
-            3,
-            2,
-            2,
-            4,
-            2,
-            5
-        ]
+        "name": "Mark S.",
+        "photo": "https://instagram.ftpa1-1.fna.fbcdn.net/t51.2885-19/10731526_788370824554808_522872068_a.jpg",
+        "scores": [4, 3, 2, 3, 4, 2, 4, 2, 2, 4]
     },
     {
-        "name": "UR Scary",
-        "photo": "https://cdn.pixabay.com/photo/2017/08/23/08/01/animals-2671825_1280.jpg",
-        "scores":[
-            4,
-            5,
-            4,
-            4,
-            1,
-            4,
-            4,
-            3,
-            4,
-            4
-        ]
+        "name": "Milena Garces",
+        "photo": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Star-icon.png",
+        "scores": [3, 4, 3, 2, 1, 3, 3, 5, 1, 5]
     },
     {
-        "name": "True Love",
-        "photo": "https://cdn.pixabay.com/photo/2013/10/16/23/08/elephants-196613_1280.jpg",
-        "scores":[
-            3,
-            3,
-            5,
-            3,
-            2,
-            3,
-            3,
-            5,
-            3,
-            1
-        ]
+        "name": "Erik Denman",
+        "photo": "https://drive.google.com/file/d/0B27_pCcNo5-SRkNfUmx2ZHQ1VkE/view?usp=sharing",
+        "scores": [3, 4, 3, 2, 2, 1, 4, 5, 5, 5]
     },
-
-
+    {
+        "name": "Kendra Krzywicki",
+        "photo": "https://drive.google.com/open?id=14BTtkQIvHO1jcOr7ELPAWcZpfkWaeTEEDg",
+        "scores": [2, 2, 3, 4, 1, 4, 3, 5, 4, 2]
+    },
     {
         "name": "Ryan Lacy",
         "photo": "https://drive.google.com/file/d/0B8Y4cdh2w039ckZQaU12Tko0UG8/view?usp=sharing",
-        "scores": [
-            5,
-            3,
-            3,
-            1,
-            2,
-            1,
-            4,
-            2,
-            2,
-            2
-        ]
+        "scores": [5, 3, 3, 1, 2, 1, 4, 2, 2, 2]        
+    },
+    {
+        "name": "Derek",
+        "photo": "https://drive.google.com/open?id=1Xmxtg8I6lQ8__MeAZHx8mI5lNJk6IF5DfA",
+        "scores": [5, 4, 2, 1, 5, 1, 2, 2, 3, 5]
     }
 ]
 module.exports = friends;
